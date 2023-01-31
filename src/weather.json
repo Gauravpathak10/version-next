@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "country": "France",
+        "humidity": "32%",
+        "wind": "22 K/M",
+        "temp": "10 deg",
+        "climate": "foogy",
+        "color": "red",
+        "bg":"https://e0.pxfuel.com/wallpapers/976/882/desktop-wallpaper-animated-landscape-animated-landscape-background-on-bat-animation-nature.jpg"
+    },
+    {
+        "id": 2,
+        "country": "North Africa",
+        "humidity": "12%",
+        "wind": "29 K/M",
+        "temp": "9 deg",
+        "climate": "rainy",
+        "color": "green",
+        "bg":"https://images.alphacoders.com/117/thumb-1920-1172157.jpeg"
+    },
+    {
+        "id": 3,
+        "country": "Qatar",
+        "humidity": "52%",
+        "wind": "22 K/M",
+        "temp": "20 deg",
+        "climate": "foogy",
+        "color": "orange",
+        "bg":"https://wallpaperbat.com/img/342204-download-wallpaper-3840x2160-river-forest-sunset-landscape-art.jpg"
+    },
+    {
+        "id": 4,
+        "country": "Japan",
+        "humidity": "22%",
+        "wind": "27 K/M",
+        "temp": "12 deg",
+        "climate": "sunny",
+        "color": "blue",
+        "bg":"https://thumbs.dreamstime.com/b/path-forest-big-dark-trees-night-game-background-tillable-horizontally-terrible-night-scene-spruce-forest-160813443.jpg"
+    }
+]
