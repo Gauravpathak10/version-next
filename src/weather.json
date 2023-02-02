@@ -16,7 +16,7 @@
         "wind": "29 K/M",
         "temp": "9 deg",
         "climate": "rainy",
-        "color": "green",
+        "color": "lightgrey",
         "bg":"https://images.alphacoders.com/117/thumb-1920-1172157.jpeg"
     },
     {
@@ -26,7 +26,7 @@
         "wind": "22 K/M",
         "temp": "20 deg",
         "climate": "foogy",
-        "color": "orange",
+        "color": "green",
         "bg":"https://wallpaperbat.com/img/342204-download-wallpaper-3840x2160-river-forest-sunset-landscape-art.jpg"
     },
     {
@@ -38,5 +38,15 @@
         "climate": "sunny",
         "color": "blue",
         "bg":"https://thumbs.dreamstime.com/b/path-forest-big-dark-trees-night-game-background-tillable-horizontally-terrible-night-scene-spruce-forest-160813443.jpg"
+    },
+    {
+        "id": 5,
+        "country": "India",
+        "humidity": "11%",
+        "wind": "26 K/M",
+        "temp": "18 deg",
+        "climate": "Windy",
+        "color": "orange",
+        "bg":"https://cdn.wallpapersafari.com/65/8/4AwXeP.jpg"
     }
 ]
